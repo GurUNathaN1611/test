@@ -3,3 +3,5 @@
 3)Banana
 4)graps
 5)strawberry
+6)pineApple
+7)dragan fruit
